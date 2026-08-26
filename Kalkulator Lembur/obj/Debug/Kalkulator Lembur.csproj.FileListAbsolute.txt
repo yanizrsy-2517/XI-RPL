@@ -1,0 +1,10 @@
+C:\Users\USER\source\Kalkulator Lembur\bin\Debug\Kalkulator Lembur.exe.config
+C:\Users\USER\source\Kalkulator Lembur\bin\Debug\Kalkulator Lembur.exe
+C:\Users\USER\source\Kalkulator Lembur\bin\Debug\Kalkulator Lembur.pdb
+C:\Users\USER\source\Kalkulator Lembur\obj\Debug\Kalkulator Lembur.csproj.AssemblyReference.cache
+C:\Users\USER\source\Kalkulator Lembur\obj\Debug\Kalkulator_Lembur.Form1.resources
+C:\Users\USER\source\Kalkulator Lembur\obj\Debug\Kalkulator_Lembur.Properties.Resources.resources
+C:\Users\USER\source\Kalkulator Lembur\obj\Debug\Kalkulator Lembur.csproj.GenerateResource.cache
+C:\Users\USER\source\Kalkulator Lembur\obj\Debug\Kalkulator Lembur.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\Kalkulator Lembur\obj\Debug\Kalkulator Lembur.exe
+C:\Users\USER\source\Kalkulator Lembur\obj\Debug\Kalkulator Lembur.pdb
