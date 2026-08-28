@@ -1,0 +1,20 @@
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\shoppee eakk\obj\Debug\shoppee eakk.csproj.AssemblyReference.cache
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\shoppee eakk\obj\Debug\shoppee_eakk.Properties.Resources.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\shoppee eakk\obj\Debug\shoppee eakk.csproj.GenerateResource.cache
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\shoppee eakk\obj\Debug\shoppee eakk.csproj.CoreCompileInputs.cache
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\shoppee eakk\bin\Debug\shoppee eakk.exe.config
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\shoppee eakk\bin\Debug\shoppee eakk.exe
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\shoppee eakk\bin\Debug\shoppee eakk.pdb
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\shoppee eakk\obj\Debug\shoppee_eakk.Form1.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\shoppee eakk\obj\Debug\shoppee eakk.exe
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\shoppee eakk\obj\Debug\shoppee eakk.pdb
+C:\Users\USER\Documents\Kelas\shoppee eakk\bin\Debug\shoppee eakk.exe.config
+C:\Users\USER\Documents\Kelas\shoppee eakk\bin\Debug\shoppee eakk.exe
+C:\Users\USER\Documents\Kelas\shoppee eakk\bin\Debug\shoppee eakk.pdb
+C:\Users\USER\Documents\Kelas\shoppee eakk\obj\Debug\shoppee eakk.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Kelas\shoppee eakk\obj\Debug\shoppee_eakk.Form1.resources
+C:\Users\USER\Documents\Kelas\shoppee eakk\obj\Debug\shoppee_eakk.Properties.Resources.resources
+C:\Users\USER\Documents\Kelas\shoppee eakk\obj\Debug\shoppee eakk.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Kelas\shoppee eakk\obj\Debug\shoppee eakk.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Kelas\shoppee eakk\obj\Debug\shoppee eakk.exe
+C:\Users\USER\Documents\Kelas\shoppee eakk\obj\Debug\shoppee eakk.pdb
