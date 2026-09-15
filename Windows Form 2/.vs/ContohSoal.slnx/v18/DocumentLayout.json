@@ -1,101 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\contohsoal1\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\user\\source\\xi-rpl\\windows form 2\\contohsoal1\\bandaramodels.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\bandaramodels.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\user\\source\\xi-rpl\\windows form 2\\contohsoal1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\user\\source\\xi-rpl\\windows form 2\\contohsoal1\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\contohsoal1\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\contohsoal1\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\contohsoal1\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\contohsoal1\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\contohsoal1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form4bandara.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form4bandara.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form4bandara.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\contohsoal1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form8ubahstatuspenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form8ubahstatuspenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form8ubahstatuspenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form5maskapai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form5maskapai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form5maskapai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form4bandara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form4bandara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form4bandara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form3dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form3dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form3dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form7kodepromo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form7kodepromo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form7kodepromo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form6jadwalpenerbangan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form6jadwalpenerbangan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form6jadwalpenerbangan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form4bandara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form4bandara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form4bandara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\contohsoal1\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|c:\\users\\erika\\documents\\erik\\code\\github\\github 3\\yani\\tugas\\windows-form\\contohsoal1\\form5maskapai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\form5maskapai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\form5maskapai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\contohsoal1\\penumpangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\contohsoal1\\penumpangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F06A341-5088-4025-90F6-FD94A9DC628F}|ContohSoal1\\ContohSoal1.csproj|solutionrelative:contohsoal1\\penumpangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -106,15 +114,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BandaraModels.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\BandaraModels.edmx",
+              "RelativeDocumentMoniker": "ContohSoal1\\BandaraModels.edmx",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\BandaraModels.edmx [Diagram1]",
+              "RelativeToolTip": "ContohSoal1\\BandaraModels.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-09-15T06:08:07.335Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\App.config",
+              "RelativeDocumentMoniker": "ContohSoal1\\App.config",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\App.config",
+              "RelativeToolTip": "ContohSoal1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-15T06:06:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form9CustomerMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form9CustomerMain.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form9CustomerMain.cs",
               "RelativeDocumentMoniker": "ContohSoal1\\Form9CustomerMain.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form9CustomerMain.cs [Design]",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form9CustomerMain.cs [Design]",
               "RelativeToolTip": "ContohSoal1\\Form9CustomerMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-30T00:21:31.345Z",
@@ -122,47 +167,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form10ListPenerbangan.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form10ListPenerbangan.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form10ListPenerbangan.cs",
               "RelativeDocumentMoniker": "ContohSoal1\\Form10ListPenerbangan.cs",
               "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form10ListPenerbangan.cs [Design]",
-              "RelativeToolTip": "ContohSoal1\\Form10ListPenerbangan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form10ListPenerbangan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-15T10:28:26.101Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form11BeliTiket.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form11BeliTiket.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form11BeliTiket.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form11BeliTiket.cs [Design]",
-              "RelativeToolTip": "ContohSoal1\\Form11BeliTiket.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-15T11:27:06.694Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form12TiketSaya.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form12TiketSaya.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form12TiketSaya.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form12TiketSaya.cs [Design]",
-              "RelativeToolTip": "ContohSoal1\\Form12TiketSaya.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T23:29:24.914Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-08-15T10:28:26.101Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Form11BeliTiket.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form11BeliTiket.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form11BeliTiket.cs",
+              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form11BeliTiket.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form11BeliTiket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T11:27:06.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form12TiketSaya.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form12TiketSaya.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form12TiketSaya.cs",
+              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form12TiketSaya.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form12TiketSaya.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T23:29:24.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form9CustomerMain.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form9CustomerMain.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form9CustomerMain.cs",
               "RelativeDocumentMoniker": "ContohSoal1\\Form9CustomerMain.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form9CustomerMain.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form9CustomerMain.cs",
               "RelativeToolTip": "ContohSoal1\\Form9CustomerMain.cs",
               "ViewState": "AgIAAH0AAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,241 +213,223 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Form11BeliTiket.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form11BeliTiket.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form11BeliTiket.cs",
               "RelativeDocumentMoniker": "ContohSoal1\\Form11BeliTiket.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form11BeliTiket.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form11BeliTiket.cs",
               "RelativeToolTip": "ContohSoal1\\Form11BeliTiket.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:32:39.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T14:32:39.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Form10ListPenerbangan.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form10ListPenerbangan.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form10ListPenerbangan.cs",
               "RelativeDocumentMoniker": "ContohSoal1\\Form10ListPenerbangan.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form10ListPenerbangan.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form10ListPenerbangan.cs",
               "RelativeToolTip": "ContohSoal1\\Form10ListPenerbangan.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:32:36.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form8UbahStatusPenerbangan.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form8UbahStatusPenerbangan.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form8UbahStatusPenerbangan.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form8UbahStatusPenerbangan.cs",
-              "RelativeToolTip": "ContohSoal1\\Form8UbahStatusPenerbangan.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAA4wGUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:26:07.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Form7KodePromo.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form7KodePromo.Designer.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form7KodePromo.Designer.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form7KodePromo.Designer.cs",
-              "RelativeToolTip": "ContohSoal1\\Form7KodePromo.Designer.cs",
-              "ViewState": "AgIAABQBAAAAAAAAAAAAAAsCAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:14:13.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form7KodePromo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form7KodePromo.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form7KodePromo.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form7KodePromo.cs [Design]",
-              "RelativeToolTip": "ContohSoal1\\Form7KodePromo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:14:09.387Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Form6JadwalPenerbangan.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form6JadwalPenerbangan.Designer.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form6JadwalPenerbangan.Designer.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form6JadwalPenerbangan.Designer.cs",
-              "RelativeToolTip": "ContohSoal1\\Form6JadwalPenerbangan.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:13:51.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T14:32:36.04Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Form6JadwalPenerbangan.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form6JadwalPenerbangan.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form6JadwalPenerbangan.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form6JadwalPenerbangan.cs [Design]",
-              "RelativeToolTip": "ContohSoal1\\Form6JadwalPenerbangan.cs [Design]",
+              "Title": "Form8UbahStatusPenerbangan.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form8UbahStatusPenerbangan.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form8UbahStatusPenerbangan.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form8UbahStatusPenerbangan.cs",
+              "RelativeToolTip": "ContohSoal1\\Form8UbahStatusPenerbangan.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA4wGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:13:48.849Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-08-30T14:26:07.706Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Form4Bandara.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form4Bandara.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form4Bandara.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form4Bandara.cs",
-              "RelativeToolTip": "ContohSoal1\\Form4Bandara.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAkwH0AAAAAAAAAAAAAAA==",
+              "Title": "Form7KodePromo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form7KodePromo.Designer.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form7KodePromo.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form7KodePromo.Designer.cs",
+              "RelativeToolTip": "ContohSoal1\\Form7KodePromo.Designer.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAAAsCAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:13:21.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Form4Bandara.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form4Bandara.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form4Bandara.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form4Bandara.cs [Design]",
-              "RelativeToolTip": "ContohSoal1\\Form4Bandara.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:12:34.622Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form4Bandara.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form4Bandara.Designer.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form4Bandara.Designer.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form4Bandara.Designer.cs",
-              "RelativeToolTip": "ContohSoal1\\Form4Bandara.Designer.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAowAIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:12:11.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Form3Dashboard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form3Dashboard.Designer.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form3Dashboard.Designer.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form3Dashboard.Designer.cs",
-              "RelativeToolTip": "ContohSoal1\\Form3Dashboard.Designer.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAxwCUBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:10:19.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T14:14:13.231Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Form5Maskapai.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form5Maskapai.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form5Maskapai.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form5Maskapai.cs [Design]",
-              "RelativeToolTip": "ContohSoal1\\Form5Maskapai.cs [Design]",
+              "Title": "Form7KodePromo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form7KodePromo.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form7KodePromo.cs",
+              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form7KodePromo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form7KodePromo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T13:58:21.72Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Form5Maskapai.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form5Maskapai.Designer.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form5Maskapai.Designer.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form5Maskapai.Designer.cs",
-              "RelativeToolTip": "ContohSoal1\\Form5Maskapai.Designer.cs",
-              "ViewState": "AgIAAA8BAAAAAAAAAAAAAOEBAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T13:57:21.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T14:14:09.387Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Form3Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form3Dashboard.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form3Dashboard.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form3Dashboard.cs",
-              "RelativeToolTip": "ContohSoal1\\Form3Dashboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Title": "Form6JadwalPenerbangan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form6JadwalPenerbangan.Designer.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form6JadwalPenerbangan.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form6JadwalPenerbangan.Designer.cs",
+              "RelativeToolTip": "ContohSoal1\\Form6JadwalPenerbangan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T12:12:16.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T14:13:51.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form6JadwalPenerbangan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form6JadwalPenerbangan.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form6JadwalPenerbangan.cs",
+              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form6JadwalPenerbangan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form6JadwalPenerbangan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T14:13:48.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form4Bandara.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form4Bandara.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form4Bandara.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form4Bandara.cs",
+              "RelativeToolTip": "ContohSoal1\\Form4Bandara.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T14:13:21.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form4Bandara.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form4Bandara.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form4Bandara.cs",
+              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form4Bandara.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form4Bandara.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T14:12:34.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4Bandara.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form4Bandara.Designer.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form4Bandara.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form4Bandara.Designer.cs",
+              "RelativeToolTip": "ContohSoal1\\Form4Bandara.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T14:12:11.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form3Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form3Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form3Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form3Dashboard.Designer.cs",
+              "RelativeToolTip": "ContohSoal1\\Form3Dashboard.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAxwCUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T14:10:19.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form5Maskapai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form5Maskapai.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form5Maskapai.cs",
+              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form5Maskapai.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form5Maskapai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T13:58:21.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form5Maskapai.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form5Maskapai.Designer.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form5Maskapai.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form5Maskapai.Designer.cs",
+              "RelativeToolTip": "ContohSoal1\\Form5Maskapai.Designer.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAAAOEBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T13:57:21.386Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "Form3Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form3Dashboard.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form3Dashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form3Dashboard.cs",
+              "RelativeToolTip": "ContohSoal1\\Form3Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T12:12:16.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "PenumpangControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\PenumpangControl.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\PenumpangControl.cs",
               "RelativeDocumentMoniker": "ContohSoal1\\PenumpangControl.cs",
               "ToolTip": "C:\\Users\\Erika\\source\\repos\\ContohSoal\\ContohSoal1\\PenumpangControl.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\ContohSoal\\ContohSoal1\\PenumpangControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Erika\\source\\repos\\ContohSoal\\ContohSoal1\\PenumpangControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-24T22:57:49.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Form3Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form3Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form3Dashboard.cs",
               "RelativeDocumentMoniker": "ContohSoal1\\Form3Dashboard.cs",
               "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form3Dashboard.cs [Design]",
-              "RelativeToolTip": "ContohSoal1\\Form3Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form3Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T09:10:58.289Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-08-30T09:10:58.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form2Register.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form2Register.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form2Register.cs",
               "RelativeDocumentMoniker": "ContohSoal1\\Form2Register.cs",
               "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form2Register.cs [Design]",
-              "RelativeToolTip": "ContohSoal1\\Form2Register.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form2Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T09:01:48.013Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form1.cs",
-              "RelativeDocumentMoniker": "ContohSoal1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form1.cs [Design]",
-              "RelativeToolTip": "ContohSoal1\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T02:36:30.919Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-08-30T09:01:48.013Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form1.cs",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form1.cs",
               "RelativeDocumentMoniker": "ContohSoal1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Erika\\Documents\\Erik\\Code\\GitHub\\Github 3\\Yani\\tugas\\windows-form\\ContohSoal1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T02:36:30.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form1.cs",
+              "RelativeDocumentMoniker": "ContohSoal1\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\XI-RPL\\Windows Form 2\\ContohSoal1\\Form1.cs",
               "RelativeToolTip": "ContohSoal1\\Form1.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T02:36:16.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T02:36:16.093Z"
             }
           ]
         }

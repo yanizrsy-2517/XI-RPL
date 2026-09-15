@@ -258,16 +258,6 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="BandaraModels.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>BandaraModels.edmx</DependentUpon>
-      <LastGenOutput>BandaraModels.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="BandaraModels.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>BandaraModels.edmx</DependentUpon>
-      <LastGenOutput>BandaraModels.cs</LastGenOutput>
-    </Content>
     <None Include="Resources\image-1682163782-1982.jpg" />
     <None Include="Resources\alarm bell.png" />
     <None Include="Resources\multiple man woman.png" />
@@ -285,7 +275,18 @@
     <None Include="Resources\Calendar--Streamline-Ultimate %281%29.png" />
     <None Include="Resources\Calendar-Plane--Streamline-Ultimate %281%29.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="BandaraModels.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>BandaraModels.edmx</DependentUpon>
+      <LastGenOutput>BandaraModels.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="BandaraModels.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>BandaraModels.edmx</DependentUpon>
+      <LastGenOutput>BandaraModels.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

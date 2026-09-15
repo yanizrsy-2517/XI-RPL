@@ -65,27 +65,27 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Jurusan.cs">
-      <DependentUpon>SekolahModel.tt</DependentUpon>
+      <DependentUpon>SekolahModels.tt</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SekolahModel.Context.cs">
+    <Compile Include="SekolahModels.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>SekolahModel.Context.tt</DependentUpon>
+      <DependentUpon>SekolahModels.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="SekolahModel.cs">
+    <Compile Include="SekolahModels.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>SekolahModel.tt</DependentUpon>
+      <DependentUpon>SekolahModels.tt</DependentUpon>
     </Compile>
-    <Compile Include="SekolahModel.Designer.cs">
+    <Compile Include="SekolahModels.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>SekolahModel.edmx</DependentUpon>
+      <DependentUpon>SekolahModels.edmx</DependentUpon>
     </Compile>
     <Compile Include="Siswa.cs">
-      <DependentUpon>SekolahModel.tt</DependentUpon>
+      <DependentUpon>SekolahModels.tt</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -109,31 +109,31 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <EntityDeploy Include="SekolahModel.edmx">
+    <EntityDeploy Include="SekolahModels.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>SekolahModel.Designer.cs</LastGenOutput>
+      <LastGenOutput>SekolahModels.Designer.cs</LastGenOutput>
     </EntityDeploy>
-    <None Include="SekolahModel.edmx.diagram">
-      <DependentUpon>SekolahModel.edmx</DependentUpon>
+    <None Include="SekolahModels.edmx.diagram">
+      <DependentUpon>SekolahModels.edmx</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="SekolahModel.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>SekolahModel.edmx</DependentUpon>
-      <LastGenOutput>SekolahModel.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="SekolahModel.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>SekolahModel.edmx</DependentUpon>
-      <LastGenOutput>SekolahModel.cs</LastGenOutput>
-    </Content>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Content Include="SekolahModels.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>SekolahModels.edmx</DependentUpon>
+      <LastGenOutput>SekolahModels.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="SekolahModels.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>SekolahModels.edmx</DependentUpon>
+      <LastGenOutput>SekolahModels.cs</LastGenOutput>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

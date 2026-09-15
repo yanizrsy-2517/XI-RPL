@@ -13,3 +13,18 @@ C:\Erik's Workspace\coding\learn\c#\winforms\EntityFramework\EntityFramework\obj
 C:\Erik's Workspace\coding\learn\c#\winforms\EntityFramework\EntityFramework\obj\Debug\EntityFr.4B064B60.Up2Date
 C:\Erik's Workspace\coding\learn\c#\winforms\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
 C:\Erik's Workspace\coding\learn\c#\winforms\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.AssemblyReference.cache
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Form1.resources
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Properties.Resources.resources
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.GenerateResource.cache
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\obj\Debug\EntityFr.4B064B60.Up2Date
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\USER\source\XI-RPL\Ssms Sql Server\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
