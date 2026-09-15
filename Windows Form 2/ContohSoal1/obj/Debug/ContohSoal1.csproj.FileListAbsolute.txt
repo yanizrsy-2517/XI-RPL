@@ -1,0 +1,66 @@
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\bin\Debug\ContohSoal1.exe.config
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\bin\Debug\ContohSoal1.exe
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\bin\Debug\ContohSoal1.pdb
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\obj\Debug\ContohSoal1.csproj.AssemblyReference.cache
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\obj\Debug\ContohSoal1.Form1Login.resources
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\obj\Debug\ContohSoal1.Form2Register.resources
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\obj\Debug\ContohSoal1.Form3Dashboard.resources
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\obj\Debug\ContohSoal1.Properties.Resources.resources
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\obj\Debug\ContohSoal1.csproj.GenerateResource.cache
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\obj\Debug\ContohSoal1.csproj.CoreCompileInputs.cache
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\obj\Debug\ContohSoal1.exe
+C:\Users\Erika\source\repos\ContohSoal1\ContohSoal1\obj\Debug\ContohSoal1.pdb
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\bin\Debug\ContohSoal1.exe.config
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\bin\Debug\ContohSoal1.exe
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\bin\Debug\ContohSoal1.pdb
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.csproj.AssemblyReference.cache
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form1Login.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form2Register.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form3Dashboard.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Properties.Resources.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.csproj.GenerateResource.cache
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.csproj.CoreCompileInputs.cache
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.exe
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.pdb
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form8UbahStatusPenerbangan.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form7KodePromo.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form6JadwalPenerbangan.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form5Maskapai.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form4Bandara.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form10ListPenerbangan.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form9CustomerMain.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form12TiketSaya.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.Form11BeliTiket.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSoal1.PenumpangControl.resources
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\bin\Debug\EntityFramework.dll
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\bin\Debug\EntityFramework.xml
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erika\source\repos\ContohSoal\ContohSoal1\obj\Debug\ContohSo.B682F1D5.Up2Date
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\bin\Debug\ContohSoal1.exe.config
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\bin\Debug\ContohSoal1.exe
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\bin\Debug\ContohSoal1.pdb
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\bin\Debug\EntityFramework.dll
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\bin\Debug\EntityFramework.xml
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.csproj.AssemblyReference.cache
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form1Login.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form12TiketSaya.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form11BeliTiket.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form10ListPenerbangan.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form2Register.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form3Dashboard.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form4Bandara.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form5Maskapai.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form6JadwalPenerbangan.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form7KodePromo.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form8UbahStatusPenerbangan.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Form9CustomerMain.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.Properties.Resources.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.PenumpangControl.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.csproj.GenerateResource.cache
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSo.B682F1D5.Up2Date
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.exe
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Yani\tugas\windows-form\ContohSoal1\obj\Debug\ContohSoal1.pdb
